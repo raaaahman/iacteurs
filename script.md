@@ -14,7 +14,7 @@ Ayant éprouvé quelques gènes visuels depuis octobre 2018 son opthamologue ava
 Le laboratoire Mercier à qui ont été fourni pour analyse les 3 derniers fonds d'oeuil de Mr Michou, 
 dont celui de Novembre 2018, n'ont révélés aucune lésion ni oedème.
 Les investigations ont montrées que le Laboratoire Mercier basait ses résultats sur l'analyse de L'IA IDx-DR.
-Principe recommander par la FDA au USA depuis Avril 2018 et approuvé par le conseil de l'ordre des Médecins en france depuis Janv 2019.
+Principe recommandé par la FDA aux USA depuis Avril 2018 et approuvé par le conseil de l'ordre des Médecins en france depuis Janv 2019.
 A 3 reprises L'IA IDx-DR n'a pas détecté les lésions pourtant avérés sur les fonds d'oeuil de Mr Michou, et en particulier sur les examen de Novembre.
 En conséquence de quoi Mr Michou demande réparation pour son préjudice 
 et le ministère publique souhaite que l'on explique pourquoi L'IA à failli à son devoir de diagnostic.
