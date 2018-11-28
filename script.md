@@ -5,19 +5,19 @@
 ## Scene 1:
 
 Où le procureur présente les faits.
-Mrs et Mesdames les jurées, la cours se réunis aujourd'hui pour delibérer sur le conflic qui oppose Mr Alain Michou et L'IA nommée IDx-DR. 
-En effet, Mr Michou a déposé une requête en réparation du préjudice subi suite à la perte de la vision. 
+Mrs et Mesdames les jurées, la cours se réunis aujourd'hui pour delibérer sur le conflic qui oppose Mr Alain Michou et L'IA nommée IDx-DR.
+En effet, Mr Michou a déposé une requête en réparation du préjudice subi suite à la perte de la vision.
 Mr Michou a perdu la vue le 13/02/2021 des suites d'une rétinopathie diabétique.
 Retinopathie diabetique confirmée par examen de Mr Michou le 12/04/2021 par le professeur Voiclair Ophtalmologue expert auprès des assurances Assuretout.
-Diabetique de type 2 depuis une vingtaine d'années, Mr Michou se faisait depister scrupuleusement tous les ans depuis 10 ans par un fond d'oeuil. 
+Diabetique de type 2 depuis une vingtaine d'années, Mr Michou se faisait depister scrupuleusement tous les ans depuis 10 ans par un fond d'oeuil.
 Ayant éprouvé quelques gènes visuels depuis octobre 2020 son opthamologue a réalisé un examen complémentaire en Novembre de la même année.
-Les investigations ont montrées que l'ophtamologue de Mr Michou, le docteur Bevu utilisait une camera NFC-B de marque Numalab connectée permettant la prise de vue du fond d'oeuil et transmettait directement le cliché à une inteligence artificiel, nomée Iris+ en charge de la détection d'anomalies. 
+Les investigations ont montrées que l'ophtamologue de Mr Michou, le docteur Bevu utilisait une camera NFC-B de marque Numalab connectée permettant la prise de vue du fond d'oeuil et transmettait directement le cliché à une inteligence artificiel, nomée Iris+ en charge de la détection d'anomalies.
 Ce principe est recommandé par la FDA aux USA depuis Avril 2018 et approuvé par le conseil de l'ordre des Médecins en france depuis Janv 2019.
 A 3 reprises les clichés du fond d'oeuil de Mr Michou n'ont pas inquiété Iris+ et n'ont pas détecté les lésions pourtant avérés sur les fonds d'oeuil de Mr Michou, ceci en particulier sur les examen de Novembre.
-En conséquence de quoi Mr Michou demande réparation pour son préjudice 
+En conséquence de quoi Mr Michou demande réparation pour son préjudice
 et le ministère publique souhaite que l'on explique pourquoi L'IA à failli à son devoir de diagnostic.
 
-     
+
 
 ## Scene 2:
 
@@ -27,11 +27,14 @@ L'expert.e : L'IA c'est le fait de programmer une machine pour lui donner un mod
 C'est tout d'abord par l'imaginaire de la science fiction, littérature et autres œuvres que notre société a tout d'abord appréhender la problématique. L'un des exemples les plus marquants a été HAL l'ordinateur de bord de 2001 l'Odyssée de l'espace de Stanley Kubrick.
 
 Quand est-on sorti de la science fiction ?
-L'expert.e : Cela a commencé à devenir une réalité pour le grand public avec les ordinateurs d'IBM Deep Blue et Deeper Blue qui ont affronté en 1996 et 1997 le champion russe Garry Kasparov. La victoire en 1997 de la machine sur l'homme, pour une partie remportée, la cinquième, est retentissante, même si elle est plus liée à un bug de la machine qu'à un coup de maître. Mais IBM n'a pas laissé ni le champion d'échec ni d'autres informaticiens se pencher sur les logs et autres éléments. Deeper Blue sera même rapidement totalement démonter.
+L'expert.e : - C'est en fait une question qui remonte aux début de l'informatique, dans les années 50, notamment dans les travaux d'Alan Turing, qui proposera alors un test permettant d'évaluer si une intelligence artificielle peut être jugée consciente au même titre qu'un être humain. Mais cela a commencé à devenir une réalité pour le grand public avec les ordinateurs d'IBM Deep Blue et Deeper Blue qui ont affronté en 1996 et 1997 le champion russe Garry Kasparov. La victoire en 1997 de la machine sur l'homme, pour une partie remportée, la cinquième, est retentissante, même si elle est plus liée à un bug de la machine qu'à un coup de maître. Mais IBM n'a pas laissé ni le champion d'échec ni d'autres informaticiens se pencher sur les logs et autres éléments. Deeper Blue sera même rapidement totalement démonter.
 Ce culte du secret tranche avec la stratégie de DeepMind, entreprise britannique rachetée par Google en 2014, qui pour son programme AplhaGo puis AlphaGo Zero, a misé sur des publications dans la revue scientifique internationale Nature, pour valider ses victoires sur les joueurs professionnels de Go, le Français Fan Hui en 2015, publié en janvier 2016, puis le Chinois Ke Jie en mai 2017, avec l'article paru en octobre 2017 qui révèle une architecture simplifiée.
-A la veille des années 2020 les voitures connectées constiuaient le symbole de l'IA, avec quelques coups médiatiques de création par des IA, en peinture, en musique, ou pièces de théâtre.
-L'intêrêt de l'IA est de faire à la place de l'homme, ou donner lui la bonne orientation, parce que la machine est beaucoup plus régulière et non sensible à un état de forme, en plus d'une capacité de traintement des données qui augmente toujours. Grace au machine learning, l'IA est capable d'améliorer seule son algorithme et donc les solutions qu'elle propose.
+Ce qui est intéressant dans l'évolution entre le jeu d'échec et le jeu de go, c'est que pour ce dernier, la puissance de calcul brute des ordinateurs ne suffit plus. En effet, le nombre de coups possibles au jeu de go est bien plus important qu'au jeu d'échecs, ainsi il serait impossible pour aucune technologie actuelle de calculer la totalité des configurations pouvant émerger durant une partie, il a donc fallu créer une intelligence qui puisse posséder une capacité à réfléchir sur des expériences passées, afin de pouvoir être entraînée à l'objectif qui lui est fixé. C'est le grand succès du machine learning.
 
+Juge: - Tout ça est très intéressant, mais en quoi les jeux d'échecs et de go ont de rapport avec le cas de M.Michou?
+
+Experte : - Dans la capacité d'apprentissage, justement. Si la société DeepMind a entraîné son IA au jeu dans un premier temps, le plus étonnant est que cet entraînement peut être utilisé dans d'autres domaines. En effet, le machine learning repose sur des jeux de données que l'on donne à analyser à l'IA, ainsi, selon la nature de ses données, une même IA peut-être amenée à réfléchir à des problèmes tout à fait différents. A la veille des années 2020 les voitures connectées constiuaient le symbole de l'IA, avec quelques coups médiatiques de création par des IA, en peinture, en musique, ou pièces de théâtre.
+L'intêrêt de l'IA est de faire à la place de l'homme, ou donner lui la bonne orientation, parce que la machine est beaucoup plus régulière et non sensible à un état de forme, en plus d'une capacité de traintement des données qui augmente toujours. Grace au machine learning, l'IA est capable d'améliorer seule son algorithme et donc les solutions qu'elle propose.
 
 ## Scene 3:
 
