@@ -37,6 +37,8 @@ L'intêrêt de l'IA est de faire à la place de l'homme, ou donner lui la bonne 
 
 Où le practicien explique son choix d'utiliser l'IA.
 
+Mesdames, messieurs, je tiens à défendre le cas de l'intelligence artificielle. Non seulement celle-ci est plus efficace en terme de reconnaissance d'elements defectueux chez le patient et a une marge d'erreur inferieure à celle des medecins. Le choix de se fier à son diagnostic n'est pas une erreur, mais je tiens à preciser que le taux d'erreur de l'IA était connue à l'avance de M. Michou et que celui-çi a decidé de lui faire confiance. Cette IA a été developpée dans le but de donner des diagnostics plus précis à des patients et de réduire le nombre d'incidents liés à des mauvais diagnostics. De plus l'IA a été agrémentée par par un organisme d'autorité : le FTA, cela signifie donc que mettre jusqu'à des vies dans les mains de patients a été jugé une bonne solution. Lorsque j'ai proposé la solution de l'IA à M. Michou, je lui ai donné le choix entre son diagnostic, et celui que je pourrai fournir. J'ai suivi la procédure et j'ai expliqué au patient que le diagnostic avait des chances d'être erronné comme si un véritable medecin avait effectué le diagnostic. Les IA ont déja montrés leur capacités dans le passé, notamment dans la copie de comportements humains, que ce soit dans l'apprentissage, ou l'art. Si une IA peut avoir des comportements si humains, elle peut avec aise generer des diagnostics à partir de jeux de données de bonne qualité et de la condition actuelle du patient.
+
 ## Scene 4:
 
 Où l'expert nous précise les potentielles erreurs d'une IA.
