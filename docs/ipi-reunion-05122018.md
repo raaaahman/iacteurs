@@ -1,0 +1,9 @@
+- Garder le nom IDx-DR? (article: les echos - quand l'ia est autorisée à poser un diagnostic médical)
+  - (procureur) : présentée dans la partie 1 - Sylvain
+  - (practicien) : parler de l'agrément FDA partie 3 - Brenn
+- Déporter les exemples d'utilisation d'IA partie 1 dans la partie 3 - Brenn
+- (practicien) : rajouter arguments pour l'utilisation d'IDx-DR en partie 3 - Brenn
+- (practicien) : processus de validation double par médecins - Brenn
+- (expert) : Quel type d'IA pour IDx-Dr? ( deep learning ) - Sylvain
+- (echange avocat IA - procureur) : Exemple de l'IA recrutement chez Amazon - Eric
+- (avocat IA) : Passage de la responsabilité en conclusion (laloidesparties.fr/responsabilite-ia) - Carole
